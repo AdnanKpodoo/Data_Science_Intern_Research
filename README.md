@@ -1,1 +1,1 @@
-# Data_Science_Inter_Research
+# Data_Science_Intern_Research
